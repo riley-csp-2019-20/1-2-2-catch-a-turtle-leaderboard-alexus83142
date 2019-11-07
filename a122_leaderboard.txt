@@ -1,0 +1,5 @@
+bob,10
+jazz,8
+alexus,7
+& "C:/Program Files (x86)/Python37-32/python.exe" c:/Users/alexus83142/Desktop/python/122alexus.py,7
+& "C:/Program Files (x86)/Python37-32/python.exe" c:/Users/alexus83142/Desktop/python/122alexus.py,7
